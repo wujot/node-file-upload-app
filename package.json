@@ -1,0 +1,22 @@
+{
+  "name": "node-upload-file-app",
+  "version": "1.0.0",
+  "description": "Node Upload File App",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "upload",
+    "file",
+    "app"
+  ],
+  "author": "wujot",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "formidable": "^1.2.1"
+  }
+}
